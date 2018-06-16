@@ -66,7 +66,6 @@ Other functions can be found in the source code for generation.js
 ## simulation.js
 
 1. Load .txt file, format in same way as before.
-
     ``` javascript
     var file = "test.txt";
 
