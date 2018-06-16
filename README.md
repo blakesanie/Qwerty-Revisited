@@ -1,6 +1,6 @@
 # Qwerty, Revisited
 
-A Node.js program that creates the optimal keyboard for the given text, and compares it to Qwerty.
+A **Node.js** program that creates the optimal keyboard for the given text, and compares it to **Qwerty**.
 
 ## generation.js
 

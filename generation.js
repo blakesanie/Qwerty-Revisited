@@ -2,7 +2,7 @@ var fs = require('fs');
 var text;
 var order = 1;
 var markovChain = {};
-var file = "shakespeare.txt";
+var file = "test.txt";
 start();
 
 function start() {

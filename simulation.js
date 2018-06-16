@@ -1,5 +1,5 @@
 var fs = require('fs');
-var file = "shakespeare.txt";
+var file = "test.txt";
 var text;
 
 
