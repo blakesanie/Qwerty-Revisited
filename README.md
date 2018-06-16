@@ -124,7 +124,3 @@ Other functions can be found in the source code for generation.js
     console.log("MINE  : " + getScore(mine));
     console.log(Math.round(getScore(qwerty) / getScore(mine) * 100) + "% efficiency \n");
     ```
-
-## Video
-
-<iframe src="https://www.youtube.com/embed/JnN8zwT2e-M?showinfo=0&rel=0&theme=light" width="640px" height="360px" frameborder="0"></iframe>
